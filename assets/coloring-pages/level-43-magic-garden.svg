@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Magic garden coloring page">
+  <title>Magic garden</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Magic garden</text>
+      
+    <path class="line" d="M155 450 C147 412 163 393 155 378" />
+    <ellipse class="color-area" data-area-id="magic-garden-1" cx="137" cy="378" rx="17" ry="23" transform="rotate(-28 137 378)" />
+    <ellipse class="color-area" data-area-id="magic-garden-2" cx="173" cy="378" rx="17" ry="23" transform="rotate(28 173 378)" />
+    <ellipse class="color-area" data-area-id="magic-garden-3" cx="155" cy="360" rx="17" ry="23" />
+    <ellipse class="color-area" data-area-id="magic-garden-4" cx="155" cy="396" rx="17" ry="23" />
+    <circle class="color-area" data-area-id="magic-garden-5" cx="155" cy="378" r="14" />
+  
+      
+    <path class="line" d="M300 425 C290 377.5 310 353.75 300 335" />
+    <ellipse class="color-area" data-area-id="magic-garden-6" cx="277.5" cy="335" rx="21.25" ry="28.75" transform="rotate(-28 277.5 335)" />
+    <ellipse class="color-area" data-area-id="magic-garden-7" cx="322.5" cy="335" rx="21.25" ry="28.75" transform="rotate(28 322.5 335)" />
+    <ellipse class="color-area" data-area-id="magic-garden-8" cx="300" cy="312.5" rx="21.25" ry="28.75" />
+    <ellipse class="color-area" data-area-id="magic-garden-9" cx="300" cy="357.5" rx="21.25" ry="28.75" />
+    <circle class="color-area" data-area-id="magic-garden-10" cx="300" cy="335" r="17.5" />
+  
+      
+    <path class="line" d="M485 439.2 C476.2 397.4 493.8 376.5 485 360" />
+    <ellipse class="color-area" data-area-id="magic-garden-11" cx="465.2" cy="360" rx="18.700000000000003" ry="25.3" transform="rotate(-28 465.2 360)" />
+    <ellipse class="color-area" data-area-id="magic-garden-12" cx="504.8" cy="360" rx="18.700000000000003" ry="25.3" transform="rotate(28 504.8 360)" />
+    <ellipse class="color-area" data-area-id="magic-garden-13" cx="485" cy="340.2" rx="18.700000000000003" ry="25.3" />
+    <ellipse class="color-area" data-area-id="magic-garden-14" cx="485" cy="379.8" rx="18.700000000000003" ry="25.3" />
+    <circle class="color-area" data-area-id="magic-garden-15" cx="485" cy="360" r="15.400000000000002" />
+  
+      
+    <path class="line" d="M640 402 C632 364 648 345 640 330" />
+    <ellipse class="color-area" data-area-id="magic-garden-16" cx="622" cy="330" rx="17" ry="23" transform="rotate(-28 622 330)" />
+    <ellipse class="color-area" data-area-id="magic-garden-17" cx="658" cy="330" rx="17" ry="23" transform="rotate(28 658 330)" />
+    <ellipse class="color-area" data-area-id="magic-garden-18" cx="640" cy="312" rx="17" ry="23" />
+    <ellipse class="color-area" data-area-id="magic-garden-19" cx="640" cy="348" rx="17" ry="23" />
+    <circle class="color-area" data-area-id="magic-garden-20" cx="640" cy="330" r="14" />
+  
+      <path class="color-area" data-area-id="magic-garden-21" d="M122 508 C210 442 330 530 450 488 C580 442 650 500 724 470 L724 544 L122 544 Z" />
+      <path class="color-area" data-area-id="magic-garden-22" d="M360 250 C385 180 448 180 470 250 C442 235 390 235 360 250 Z" />
+      <polygon class="color-area" data-area-id="magic-garden-23" points="250,113 255.43113573118245,127.52468297197548 270.9232433584934,128.20162612375117 258.7877622105672,137.8553170280245 262.9312755504344,152.79837387624883 250,144.24 237.0687244495656,152.79837387624883 241.21223778943278,137.8553170280245 229.07675664150662,128.20162612375117 244.56886426881755,127.52468297197548" />
+      <polygon class="color-area" data-area-id="magic-garden-24" points="548,124 554.4186149550338,141.16553442142558 572.7274694236739,141.96555814625137 558.3855371579431,153.37446557857442 563.2824165596043,171.03444185374863 548,160.92 532.7175834403957,171.03444185374863 537.6144628420569,153.37446557857442 523.2725305763261,141.96555814625137 541.5813850449662,141.16553442142558" />
+      <polygon class="color-area" data-area-id="magic-garden-25" points="405,98 409.9373961192568,111.20425724725044 424.0211303259031,111.81966011250105 412.98887473687927,120.59574275274956 416.7557050458495,134.18033988749895 405,126.4 393.2442949541505,134.18033988749895 397.01112526312073,120.59574275274956 385.9788696740969,111.81966011250105 400.0626038807432,111.20425724725044" />
+    
+</svg>

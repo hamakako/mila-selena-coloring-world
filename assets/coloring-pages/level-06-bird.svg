@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bird coloring page">
+  <title>Bird</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Bird</text>
+      <ellipse class="color-area" data-area-id="bird-1" cx="420" cy="320" rx="125" ry="98" />
+      <circle class="color-area" data-area-id="bird-2" cx="330" cy="236" r="74" />
+      <polygon class="color-area" data-area-id="bird-3" points="266,236 185,198 190,274" />
+      <path class="color-area" data-area-id="bird-4" d="M430 300 C520 230 620 300 552 380 C510 424 446 382 430 300 Z" />
+      <path class="color-area" data-area-id="bird-5" d="M520 375 L620 432 L538 430" />
+      <path class="color-area" data-area-id="bird-6" d="M410 398 L385 482 M450 398 L480 482" />
+      <circle class="detail" cx="314" cy="224" r="8" />
+      <path class="line" d="M120 488 C240 468 352 492 492 470 C610 452 666 466 720 458" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

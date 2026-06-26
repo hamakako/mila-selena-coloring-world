@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Cat coloring page">
+  <title>Cat</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Cat</text>
+      <ellipse class="color-area" data-area-id="cat-1" cx="390" cy="355" rx="135" ry="115" />
+      <circle class="color-area" data-area-id="cat-2" cx="380" cy="220" r="92" />
+      <polygon class="color-area" data-area-id="cat-3" points="300,164 328,78 366,168" />
+      <polygon class="color-area" data-area-id="cat-4" points="458,168 494,80 524,170" />
+      <path class="color-area" data-area-id="cat-5" d="M510 365 C655 310 672 450 548 448 C508 446 492 410 520 390" />
+      <ellipse class="color-area" data-area-id="cat-6" cx="390" cy="368" rx="55" ry="70" />
+      <circle class="detail" cx="346" cy="218" r="7" />
+      <circle class="detail" cx="414" cy="218" r="7" />
+      <path class="line" d="M382 238 Q380 252 370 260 M330 245 L250 225 M330 262 L250 262 M430 245 L510 225 M430 262 L510 262" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

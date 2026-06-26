@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Celebration page for Mila and Selena coloring page">
+  <title>Celebration page for Mila and Selena</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Celebration page for Mila and Selena</text>
+      
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-1" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="celebration-page-for-mila-and-selena-2" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-3" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-4" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-5" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-6" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-7" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="celebration-page-for-mila-and-selena-8" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="celebration-page-for-mila-and-selena-9" cx="353" cy="502" rx="26" ry="12" />
+  
+      
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-10" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="celebration-page-for-mila-and-selena-11" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-12" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-13" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-14" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-15" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-16" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="celebration-page-for-mila-and-selena-17" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="celebration-page-for-mila-and-selena-18" cx="543" cy="502" rx="26" ry="12" />
+  
+      <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-19" d="M210 160 C260 80 350 120 310 205 C285 250 230 220 210 160 Z" />
+      <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-20" d="M590 160 C540 80 450 120 490 205 C515 250 570 220 590 160 Z" />
+      <rect class="color-area" data-area-id="celebration-page-for-mila-and-selena-21" x="332" y="390" width="136" height="80" rx="12" />
+      <path class="color-area" data-area-id="celebration-page-for-mila-and-selena-22" d="M332 410 C360 438 385 385 412 412 C438 440 452 410 468 410" />
+      <polygon class="color-area" data-area-id="celebration-page-for-mila-and-selena-23" points="160,92 166.9123545669595,110.48596014615062 186.6295824562643,111.34752415750147 171.184424631631,123.63403985384939 176.45798706418924,142.65247584249852 160,131.76 143.54201293581076,142.65247584249852 148.815575368369,123.63403985384939 133.3704175437357,111.34752415750148 153.0876454330405,110.48596014615062" />
+      <polygon class="color-area" data-area-id="celebration-page-for-mila-and-selena-24" points="640,92 646.9123545669595,110.48596014615062 666.6295824562643,111.34752415750147 651.184424631631,123.63403985384939 656.4579870641893,142.65247584249852 640,131.76 623.5420129358107,142.65247584249852 628.815575368369,123.63403985384939 613.3704175437357,111.34752415750148 633.0876454330405,110.48596014615062" />
+      <polygon class="color-area" data-area-id="celebration-page-for-mila-and-selena-25" points="400,71 405.9248753431081,86.84510869670054 422.8253563910837,87.58359213500127 409.5866496842551,98.11489130329947 414.10684605501933,114.41640786499875 400,105.08 385.89315394498067,114.41640786499875 390.4133503157449,98.11489130329947 377.1746436089163,87.58359213500127 394.0751246568919,86.84510869670054" />
+      <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+    
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Toy car coloring page">
+  <title>Toy car</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Toy car</text>
+      <path class="color-area" data-area-id="toy-car-1" d="M160 360 L235 250 L515 250 L630 360 Z" />
+      <rect class="color-area" data-area-id="toy-car-2" x="135" y="340" width="530" height="120" rx="36" />
+      <path class="color-area" data-area-id="toy-car-3" d="M270 260 L332 190 L455 190 L520 260 Z" />
+      <circle class="color-area" data-area-id="toy-car-4" cx="260" cy="470" r="55" />
+      <circle class="color-area" data-area-id="toy-car-5" cx="540" cy="470" r="55" />
+      <circle class="color-area" data-area-id="toy-car-6" cx="260" cy="470" r="22" />
+      <circle class="color-area" data-area-id="toy-car-7" cx="540" cy="470" r="22" />
+      <rect class="color-area" data-area-id="toy-car-8" x="350" y="302" width="90" height="46" rx="12" />
+      <path class="line" d="M110 530 L700 530" />
+    
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Butterfly coloring page">
+  <title>Butterfly</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Butterfly</text>
+      <ellipse class="color-area" data-area-id="butterfly-1" cx="305" cy="245" rx="105" ry="135" transform="rotate(-24 305 245)" />
+      <ellipse class="color-area" data-area-id="butterfly-2" cx="495" cy="245" rx="105" ry="135" transform="rotate(24 495 245)" />
+      <ellipse class="color-area" data-area-id="butterfly-3" cx="315" cy="390" rx="92" ry="80" transform="rotate(20 315 390)" />
+      <ellipse class="color-area" data-area-id="butterfly-4" cx="485" cy="390" rx="92" ry="80" transform="rotate(-20 485 390)" />
+      <ellipse class="color-area" data-area-id="butterfly-5" cx="400" cy="322" rx="38" ry="150" />
+      <circle class="color-area" data-area-id="butterfly-6" cx="400" cy="168" r="36" />
+      <path class="line" d="M384 136 C340 82 305 94 288 118 M416 136 C460 82 495 94 512 118" />
+      <circle class="color-area" data-area-id="butterfly-7" cx="300" cy="232" r="24" />
+      <circle class="color-area" data-area-id="butterfly-8" cx="500" cy="232" r="24" />
+      <circle class="color-area" data-area-id="butterfly-9" cx="335" cy="392" r="21" />
+      <circle class="color-area" data-area-id="butterfly-10" cx="465" cy="392" r="21" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

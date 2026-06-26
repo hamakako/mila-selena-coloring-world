@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls with stars coloring page">
+  <title>Two girls with stars</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls with stars</text>
+    <polygon class="color-area" data-area-id="two-girls-with-stars-1" points="170,120 177.40609417888516,139.80638587087566 198.5316954888546,140.72949016875157 181.98331210531893,153.89361412912433 187.6335575687742,174.27050983124843 170,162.6 152.3664424312258,174.27050983124843 158.01668789468107,153.89361412912433 141.4683045111454,140.72949016875157 162.59390582111484,139.80638587087566" /><polygon class="color-area" data-area-id="two-girls-with-stars-2" points="620,113 627.8998337908108,134.1268115956007 650.4338085214449,135.11145618000168 632.7821995790068,149.1531884043993 638.8091280733591,170.88854381999832 620,158.44 601.1908719266409,170.88854381999832 607.2178004209932,149.1531884043993 589.5661914785551,135.11145618000168 612.1001662091892,134.1268115956007" /><polygon class="color-area" data-area-id="two-girls-with-stars-3" points="400,99 406.41861495503383,116.16553442142558 424.727469423674,116.96555814625137 410.3855371579431,128.37446557857442 415.2824165596043,146.03444185374863 400,135.92 384.7175834403957,146.03444185374863 389.6144628420569,128.37446557857442 375.272530576326,116.96555814625137 393.58138504496617,116.16553442142558" /><polygon class="color-area" data-area-id="two-girls-with-stars-4" points="690,286 695.9248753431082,301.84510869670055 712.8253563910837,302.58359213500125 699.5866496842551,313.1148913032995 704.1068460550193,329.41640786499875 690,320.08 675.8931539449807,329.41640786499875 680.4133503157449,313.1148913032995 667.1746436089163,302.58359213500125 684.0751246568918,301.84510869670055" />
+    
+    <path class="color-area" data-area-id="two-girls-with-stars-5" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-stars-6" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-with-stars-7" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-stars-8" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-with-stars-9" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-with-stars-10" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-with-stars-11" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-stars-12" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-stars-13" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-with-stars-14" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-stars-15" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-with-stars-16" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-stars-17" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-with-stars-18" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-with-stars-19" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-with-stars-20" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-stars-21" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-stars-22" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

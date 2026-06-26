@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Doll coloring page">
+  <title>Doll</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Doll</text>
+      <path class="color-area" data-area-id="doll-1" d="M320 200 C320 110 480 110 480 200 C480 280 320 280 320 200 Z" />
+      <circle class="color-area" data-area-id="doll-2" cx="400" cy="218" r="74" />
+      <circle class="detail" cx="370" cy="210" r="7" />
+      <circle class="detail" cx="430" cy="210" r="7" />
+      <path class="line" d="M374 246 Q400 266 426 246" />
+      <path class="color-area" data-area-id="doll-3" d="M330 312 L470 312 L520 500 L280 500 Z" />
+      <path class="color-area" data-area-id="doll-4" d="M330 328 C250 352 220 420 266 450" />
+      <path class="color-area" data-area-id="doll-5" d="M470 328 C550 352 580 420 534 450" />
+      <ellipse class="color-area" data-area-id="doll-6" cx="330" cy="524" rx="38" ry="15" />
+      <ellipse class="color-area" data-area-id="doll-7" cx="470" cy="524" rx="38" ry="15" />
+      <path class="color-area" data-area-id="doll-8" d="M322 312 L400 390 L478 312" />
+    
+</svg>

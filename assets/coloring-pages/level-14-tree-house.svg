@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Tree house coloring page">
+  <title>Tree house</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Tree house</text>
+      <path class="color-area" data-area-id="tree-house-1" d="M360 500 L382 255 L438 255 L460 500 Z" />
+      <circle class="color-area" data-area-id="tree-house-2" cx="320" cy="220" r="95" />
+      <circle class="color-area" data-area-id="tree-house-3" cx="430" cy="190" r="105" />
+      <circle class="color-area" data-area-id="tree-house-4" cx="520" cy="238" r="92" />
+      <rect class="color-area" data-area-id="tree-house-5" x="295" y="260" width="210" height="150" rx="14" />
+      <polygon class="color-area" data-area-id="tree-house-6" points="270,262 400,165 532,262" />
+      <rect class="color-area" data-area-id="tree-house-7" x="380" y="324" width="54" height="86" rx="6" />
+      <rect class="color-area" data-area-id="tree-house-8" x="322" y="298" width="40" height="42" rx="6" />
+      <rect class="color-area" data-area-id="tree-house-9" x="448" y="298" width="40" height="42" rx="6" />
+      <path class="line" d="M250 430 L550 430 M340 430 L312 510 M460 430 L488 510" />
+    
+</svg>

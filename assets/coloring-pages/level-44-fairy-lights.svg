@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Fairy lights coloring page">
+  <title>Fairy lights</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Fairy lights</text>
+      <path class="line" d="M90 178 C220 88 315 250 420 160 C535 62 620 220 710 130" />
+      <ellipse class="color-area" data-area-id="fairy-lights-1" cx="140" cy="165" rx="26" ry="38" />
+      <ellipse class="color-area" data-area-id="fairy-lights-2" cx="245" cy="160" rx="26" ry="38" />
+      <ellipse class="color-area" data-area-id="fairy-lights-3" cx="350" cy="185" rx="26" ry="38" />
+      <ellipse class="color-area" data-area-id="fairy-lights-4" cx="460" cy="150" rx="26" ry="38" />
+      <ellipse class="color-area" data-area-id="fairy-lights-5" cx="565" cy="150" rx="26" ry="38" />
+      <ellipse class="color-area" data-area-id="fairy-lights-6" cx="670" cy="135" rx="26" ry="38" />
+      <rect class="color-area" data-area-id="fairy-lights-7" x="250" y="300" width="300" height="170" rx="22" />
+      <path class="color-area" data-area-id="fairy-lights-8" d="M250 330 C300 380 350 300 400 340 C460 388 495 310 550 330" />
+      <polygon class="color-area" data-area-id="fairy-lights-9" points="205,396 210.92487534310814,411.84510869670055 227.8253563910837,412.58359213500125 214.58664968425515,423.1148913032995 219.10684605501936,439.41640786499875 205,430.08 190.89315394498064,439.41640786499875 195.41335031574485,423.1148913032995 182.1746436089163,412.58359213500125 199.07512465689186,411.84510869670055" />
+      <polygon class="color-area" data-area-id="fairy-lights-10" points="600,391 605.9248753431082,406.84510869670055 622.8253563910837,407.58359213500125 609.5866496842551,418.1148913032995 614.1068460550193,434.41640786499875 600,425.08 585.8931539449807,434.41640786499875 590.4133503157449,418.1148913032995 577.1746436089163,407.58359213500125 594.0751246568918,406.84510869670055" />
+    
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls at birthday party coloring page">
+  <title>Two girls at birthday party</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls at birthday party</text>
+    
+      <rect class="color-area" data-area-id="two-girls-at-birthday-party-1" x="330" y="395" width="140" height="82" rx="12" />
+      <path class="color-area" data-area-id="two-girls-at-birthday-party-2" d="M330 420 C360 452 390 398 420 424 C444 445 458 420 470 420" />
+      <rect class="color-area" data-area-id="two-girls-at-birthday-party-3" x="388" y="332" width="24" height="62" rx="8" />
+      <path class="color-area" data-area-id="two-girls-at-birthday-party-4" d="M400 332 C380 310 402 284 414 313 C420 324 410 332 400 332 Z" />
+    
+    
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-5" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-at-birthday-party-6" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-7" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-8" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-9" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-10" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-11" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-at-birthday-party-12" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-at-birthday-party-13" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-14" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-at-birthday-party-15" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-16" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-17" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-18" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-19" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-at-birthday-party-20" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-at-birthday-party-21" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-at-birthday-party-22" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Sun and clouds coloring page">
+  <title>Sun and clouds</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Sun and clouds</text>
+      <circle class="color-area" data-area-id="sun-and-clouds-1" cx="400" cy="225" r="88" />
+      <path class="line" d="M400 78 L400 18 M400 432 L400 510 M246 225 L168 225 M554 225 L632 225 M292 118 L238 64 M508 118 L562 64 M292 332 L238 386 M508 332 L562 386" />
+      
+    <path class="color-area" data-area-id="sun-and-clouds-2" d="M142.8 396
+        C147.6 364 179.6 352.8 200.4 370.4
+        C213.2 338.4 258 348 259.6 376.8
+        C286.8 376.8 294.8 413.6 264.4 416.8
+        L163.6 416.8
+        C141.2 418.4 126.8 410.4 142.8 396 Z" />
+  
+      
+    <path class="color-area" data-area-id="sun-and-clouds-3" d="M519.4 368
+        C524.8 332 560.8 319.4 584.2 339.2
+        C598.6 303.2 649 314 650.8 346.4
+        C681.4 346.4 690.4 387.8 656.2 391.4
+        L542.8 391.4
+        C517.6 393.2 501.4 384.2 519.4 368 Z" />
+  
+    
+</svg>

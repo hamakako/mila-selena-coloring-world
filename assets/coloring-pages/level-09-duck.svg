@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Duck coloring page">
+  <title>Duck</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Duck</text>
+      <ellipse class="color-area" data-area-id="duck-1" cx="420" cy="365" rx="142" ry="92" />
+      <circle class="color-area" data-area-id="duck-2" cx="305" cy="260" r="78" />
+      <polygon class="color-area" data-area-id="duck-3" points="235,258 132,220 140,296" />
+      <path class="color-area" data-area-id="duck-4" d="M435 344 C512 294 588 342 532 404 C492 436 444 406 435 344 Z" />
+      <path class="color-area" data-area-id="duck-5" d="M360 440 L332 508 M462 438 L498 508" />
+      <ellipse class="color-area" data-area-id="duck-6" cx="322" cy="520" rx="48" ry="17" />
+      <ellipse class="color-area" data-area-id="duck-7" cx="508" cy="520" rx="48" ry="17" />
+      <circle class="detail" cx="300" cy="244" r="7" />
+      <path class="line" d="M110 500 C210 462 310 512 430 485 C558 455 625 488 704 466" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

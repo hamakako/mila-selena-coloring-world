@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Fantasy horse coloring page">
+  <title>Fantasy horse</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Fantasy horse</text>
+      <ellipse class="color-area" data-area-id="fantasy-horse-1" cx="430" cy="340" rx="150" ry="82" />
+      <path class="color-area" data-area-id="fantasy-horse-2" d="M305 320 C238 250 280 150 360 178 C386 198 364 276 342 324 Z" />
+      <circle class="color-area" data-area-id="fantasy-horse-3" cx="352" cy="178" r="50" />
+      <polygon class="color-area" data-area-id="fantasy-horse-4" points="350,122 382,42 402,136" />
+      <path class="color-area" data-area-id="fantasy-horse-5" d="M408 172 C470 92 550 105 585 170 C510 165 460 195 408 172 Z" />
+      <path class="color-area" data-area-id="fantasy-horse-6" d="M560 330 C668 268 714 372 610 414" />
+      <path class="color-area" data-area-id="fantasy-horse-7" d="M350 414 L328 514 M440 418 L426 516 M510 410 L538 510" />
+      <ellipse class="color-area" data-area-id="fantasy-horse-8" cx="325" cy="526" rx="30" ry="12" />
+      <ellipse class="color-area" data-area-id="fantasy-horse-9" cx="426" cy="528" rx="30" ry="12" />
+      <ellipse class="color-area" data-area-id="fantasy-horse-10" cx="540" cy="520" rx="30" ry="12" />
+      <circle class="detail" cx="334" cy="170" r="7" />
+      <polygon class="color-area" data-area-id="fantasy-horse-11" points="190,117 196.9123545669595,135.4859601461506 216.6295824562643,136.34752415750148 201.184424631631,148.63403985384937 206.45798706418924,167.65247584249852 190,156.76 173.54201293581076,167.65247584249852 178.815575368369,148.63403985384937 163.3704175437357,136.34752415750148 183.0876454330405,135.48596014615063" />
+      <polygon class="color-area" data-area-id="fantasy-horse-12" points="640,115 647.4060941788852,134.80638587087566 668.5316954888546,135.72949016875157 651.983312105319,148.89361412912433 657.6335575687742,169.27050983124843 640,157.6 622.3664424312258,169.27050983124843 628.016687894681,148.89361412912433 611.4683045111453,135.72949016875157 632.5939058211148,134.80638587087566" />
+    
+</svg>

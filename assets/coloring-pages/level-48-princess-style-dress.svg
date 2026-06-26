@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Princess-style dress coloring page">
+  <title>Princess-style dress</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Princess-style dress</text>
+      <path class="color-area" data-area-id="princess-style-dress-1" d="M340 135 C380 178 420 178 460 135 L510 300 L290 300 Z" />
+      <path class="color-area" data-area-id="princess-style-dress-2" d="M290 300 C220 390 185 470 155 535 L645 535 C610 470 580 390 510 300 Z" />
+      <path class="color-area" data-area-id="princess-style-dress-3" d="M335 160 C288 190 260 238 290 300" />
+      <path class="color-area" data-area-id="princess-style-dress-4" d="M465 160 C512 190 540 238 510 300" />
+      <path class="color-area" data-area-id="princess-style-dress-5" d="M355 135 L400 230 L445 135" />
+      <path class="line" d="M250 395 C320 430 480 430 550 395 M215 465 C330 515 470 515 585 465" />
+      <polygon class="color-area" data-area-id="princess-style-dress-6" points="400,69 406.17174514907094,85.50532155906305 423.7764129073788,86.27457514062631 409.9860934210991,97.24467844093695 414.69463130731185,114.22542485937369 400,104.5 385.30536869268815,114.22542485937369 390.0139065789009,97.24467844093695 376.2235870926212,86.27457514062633 393.82825485092906,85.50532155906305" />
+    
+</svg>

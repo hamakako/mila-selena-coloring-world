@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Castle coloring page">
+  <title>Castle</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Castle</text>
+      <rect class="color-area" data-area-id="castle-1" x="220" y="250" width="360" height="230" rx="10" />
+      <rect class="color-area" data-area-id="castle-2" x="145" y="205" width="110" height="275" rx="8" />
+      <rect class="color-area" data-area-id="castle-3" x="545" y="205" width="110" height="275" rx="8" />
+      <polygon class="color-area" data-area-id="castle-4" points="145,205 200,112 255,205" />
+      <polygon class="color-area" data-area-id="castle-5" points="545,205 600,112 655,205" />
+      <polygon class="color-area" data-area-id="castle-6" points="310,250 400,120 490,250" />
+      <path class="color-area" data-area-id="castle-7" d="M360 480 L360 390 C360 340 440 340 440 390 L440 480 Z" />
+      <rect class="color-area" data-area-id="castle-8" x="280" y="300" width="50" height="60" rx="8" />
+      <rect class="color-area" data-area-id="castle-9" x="470" y="300" width="50" height="60" rx="8" />
+      <path class="line" d="M220 250 L250 220 L280 250 L310 220 L340 250 L370 220 L400 250 L430 220 L460 250 L490 220 L520 250 L550 220 L580 250" />
+    
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls with flowers coloring page">
+  <title>Two girls with flowers</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls with flowers</text>
+    
+    <path class="line" d="M245 418.96 C239.56 393.12 250.44 380.2 245 370" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-1" cx="232.76" cy="370" rx="11.56" ry="15.64" transform="rotate(-28 232.76 370)" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-2" cx="257.24" cy="370" rx="11.56" ry="15.64" transform="rotate(28 257.24 370)" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-3" cx="245" cy="357.76" rx="11.56" ry="15.64" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-4" cx="245" cy="382.24" rx="11.56" ry="15.64" />
+    <circle class="color-area" data-area-id="two-girls-with-flowers-5" cx="245" cy="370" r="9.520000000000001" />
+  
+    <path class="line" d="M555 418.96 C549.56 393.12 560.44 380.2 555 370" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-6" cx="542.76" cy="370" rx="11.56" ry="15.64" transform="rotate(-28 542.76 370)" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-7" cx="567.24" cy="370" rx="11.56" ry="15.64" transform="rotate(28 567.24 370)" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-8" cx="555" cy="357.76" rx="11.56" ry="15.64" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-9" cx="555" cy="382.24" rx="11.56" ry="15.64" />
+    <circle class="color-area" data-area-id="two-girls-with-flowers-10" cx="555" cy="370" r="9.520000000000001" />
+  <path class="color-area" data-area-id="two-girls-with-flowers-11" d="M275 382 C330 338 470 338 525 382" />
+    
+    <path class="color-area" data-area-id="two-girls-with-flowers-12" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-flowers-13" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-14" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-15" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-16" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-17" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-18" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-19" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-20" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-with-flowers-21" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-flowers-22" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-23" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-24" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-25" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-26" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-with-flowers-27" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-28" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-flowers-29" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

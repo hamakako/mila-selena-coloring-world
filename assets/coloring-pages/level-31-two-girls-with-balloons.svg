@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls with balloons coloring page">
+  <title>Two girls with balloons</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls with balloons</text>
+    
+      <ellipse class="color-area" data-area-id="two-girls-with-balloons-1" cx="190" cy="150" rx="44" ry="58" />
+      <ellipse class="color-area" data-area-id="two-girls-with-balloons-2" cx="610" cy="150" rx="44" ry="58" />
+      <path class="line" d="M190 208 C210 295 245 315 280 345 M610 208 C590 295 555 315 520 345" />
+    
+    
+    <path class="color-area" data-area-id="two-girls-with-balloons-3" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-balloons-4" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-5" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-6" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-7" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-8" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-9" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-balloons-10" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-balloons-11" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-with-balloons-12" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-with-balloons-13" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-14" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-15" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-16" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-17" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-with-balloons-18" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-with-balloons-19" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-with-balloons-20" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

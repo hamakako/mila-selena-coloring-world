@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ice cream coloring page">
+  <title>Ice cream</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Ice cream</text>
+      <polygon class="color-area" data-area-id="ice-cream-1" points="290,300 510,300 400,540" />
+      <path class="line" d="M330 380 L470 380 M350 430 L450 430 M370 480 L430 480" />
+      <circle class="color-area" data-area-id="ice-cream-2" cx="325" cy="245" r="74" />
+      <circle class="color-area" data-area-id="ice-cream-3" cx="400" cy="205" r="82" />
+      <circle class="color-area" data-area-id="ice-cream-4" cx="480" cy="245" r="74" />
+      <path class="color-area" data-area-id="ice-cream-5" d="M260 300 C320 340 480 340 540 300" />
+      <circle class="color-area" data-area-id="ice-cream-6" cx="398" cy="110" r="20" />
+    
+</svg>

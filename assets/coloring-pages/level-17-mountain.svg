@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Mountain coloring page">
+  <title>Mountain</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Mountain</text>
+      <polygon class="color-area" data-area-id="mountain-1" points="70,500 260,190 445,500" />
+      <polygon class="color-area" data-area-id="mountain-2" points="290,500 530,140 744,500" />
+      <polygon class="color-area" data-area-id="mountain-3" points="210,270 260,190 312,275 265,254" />
+      <polygon class="color-area" data-area-id="mountain-4" points="482,212 530,140 586,230 534,206" />
+      <path class="color-area" data-area-id="mountain-5" d="M120 505 C230 445 340 545 454 496 C575 445 650 500 728 470 L728 545 L120 545 Z" />
+      
+    <path class="color-area" data-area-id="mountain-6" d="M143.8 146
+        C147.1 124 169.1 116.3 183.4 128.4
+        C192.2 106.4 223 113 224.1 132.8
+        C242.8 132.8 248.3 158.1 227.4 160.3
+        L158.1 160.3
+        C142.7 161.4 132.8 155.9 143.8 146 Z" />
+  
+      
+    <path class="color-area" data-area-id="mountain-7" d="M569.6 117
+        C573.2 93 597.2 84.6 612.8 97.8
+        C622.4 73.8 656 81 657.2 102.6
+        C677.6 102.6 683.6 130.2 660.8 132.6
+        L585.2 132.6
+        C568.4 133.8 557.6 127.8 569.6 117 Z" />
+  
+    
+</svg>

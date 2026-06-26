@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Apple tree coloring page">
+  <title>Apple tree</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Apple tree</text>
+      <path class="color-area" data-area-id="apple-tree-1" d="M360 510 L382 290 L432 290 L460 510 Z" />
+      <circle class="color-area" data-area-id="apple-tree-2" cx="330" cy="245" r="92" />
+      <circle class="color-area" data-area-id="apple-tree-3" cx="430" cy="205" r="106" />
+      <circle class="color-area" data-area-id="apple-tree-4" cx="520" cy="258" r="88" />
+      <circle class="color-area" data-area-id="apple-tree-5" cx="360" cy="250" r="18" />
+      <circle class="color-area" data-area-id="apple-tree-6" cx="455" cy="285" r="18" />
+      <circle class="color-area" data-area-id="apple-tree-7" cx="510" cy="225" r="18" />
+      <circle class="color-area" data-area-id="apple-tree-8" cx="410" cy="168" r="18" />
+      <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+    
+</svg>

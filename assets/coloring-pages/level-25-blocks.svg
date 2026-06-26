@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Blocks coloring page">
+  <title>Blocks</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Blocks</text>
+      <rect class="color-area" data-area-id="blocks-1" x="185" y="340" width="140" height="140" rx="12" />
+      <rect class="color-area" data-area-id="blocks-2" x="330" y="340" width="140" height="140" rx="12" />
+      <rect class="color-area" data-area-id="blocks-3" x="475" y="340" width="140" height="140" rx="12" />
+      <rect class="color-area" data-area-id="blocks-4" x="255" y="200" width="140" height="140" rx="12" />
+      <rect class="color-area" data-area-id="blocks-5" x="405" y="200" width="140" height="140" rx="12" />
+      <text class="page-label" x="255" y="425">A</text>
+      <text class="page-label" x="400" y="425">B</text>
+      <text class="page-label" x="545" y="425">C</text>
+      <text class="page-label" x="325" y="285">1</text>
+      <text class="page-label" x="475" y="285">2</text>
+      <path class="line" d="M145 500 L655 500" />
+    
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Rainbow coloring page">
+  <title>Rainbow</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Rainbow</text>
+    <path class="color-area" data-area-id="rainbow-1" d="M100 470
+          A300 234 0 0 1 700 470
+          L650 470
+          A250 195 0 0 0 150 470 Z" />
+    <path class="color-area" data-area-id="rainbow-2" d="M160 470
+          A240 187.20000000000002 0 0 1 640 470
+          L595 470
+          A195 152.1 0 0 0 205 470 Z" />
+    <path class="color-area" data-area-id="rainbow-3" d="M215 470
+          A185 144.3 0 0 1 585 470
+          L545 470
+          A145 113.10000000000001 0 0 0 255 470 Z" />
+    <path class="color-area" data-area-id="rainbow-4" d="M265 470
+          A135 105.3 0 0 1 535 470
+          L496 470
+          A96 74.88 0 0 0 304 470 Z" />
+  
+    <path class="color-area" data-area-id="rainbow-5" d="M109.52000000000001 464.4
+        C113.84 435.6 142.64 425.52 161.36 441.36
+        C172.88 412.56 213.2 421.2 214.64 447.12
+        C239.12 447.12 246.32 480.24 218.96 483.12
+        L128.24 483.12
+        C108.08000000000001 484.56 95.12 477.36 109.52000000000001 464.4 Z" />
+  
+    <path class="color-area" data-area-id="rainbow-6" d="M569.52 464.4
+        C573.84 435.6 602.64 425.52 621.36 441.36
+        C632.88 412.56 673.2 421.2 674.64 447.12
+        C699.12 447.12 706.3199999999999 480.24 678.96 483.12
+        L588.24 483.12
+        C568.08 484.56 555.12 477.36 569.52 464.4 Z" />
+  <circle class="color-area" data-area-id="rainbow-7" cx="640" cy="135" r="55" />
+</svg>

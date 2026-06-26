@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Dream house coloring page">
+  <title>Dream house</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Dream house</text>
+      <rect class="color-area" data-area-id="dream-house-1" x="245" y="255" width="310" height="230" rx="22" />
+      <polygon class="color-area" data-area-id="dream-house-2" points="210,255 400,110 590,255" />
+      <rect class="color-area" data-area-id="dream-house-3" x="370" y="360" width="62" height="125" rx="10" />
+      <rect class="color-area" data-area-id="dream-house-4" x="288" y="310" width="60" height="58" rx="10" />
+      <rect class="color-area" data-area-id="dream-house-5" x="452" y="310" width="60" height="58" rx="10" />
+      <path class="color-area" data-area-id="dream-house-6" d="M245 485 C320 440 485 440 555 485" />
+      
+    <path class="color-area" data-area-id="dream-house-7" d="M123.8 151
+        C127.1 129 149.1 121.3 163.4 133.4
+        C172.2 111.4 203 118 204.1 137.8
+        C222.8 137.8 228.3 163.1 207.4 165.3
+        L138.1 165.3
+        C122.69999999999999 166.4 112.8 160.9 123.8 151 Z" />
+  
+      
+    <path class="color-area" data-area-id="dream-house-8" d="M588.8 166
+        C592.1 144 614.1 136.3 628.4 148.4
+        C637.2 126.4 668 133 669.1 152.8
+        C687.8 152.8 693.3 178.1 672.4 180.3
+        L603.1 180.3
+        C587.7 181.4 577.8 175.9 588.8 166 Z" />
+  
+      
+    <path class="line" d="M155 469.6 C150.6 448.7 159.4 438.25 155 430" />
+    <ellipse class="color-area" data-area-id="dream-house-9" cx="145.1" cy="430" rx="9.350000000000001" ry="12.65" transform="rotate(-28 145.1 430)" />
+    <ellipse class="color-area" data-area-id="dream-house-10" cx="164.9" cy="430" rx="9.350000000000001" ry="12.65" transform="rotate(28 164.9 430)" />
+    <ellipse class="color-area" data-area-id="dream-house-11" cx="155" cy="420.1" rx="9.350000000000001" ry="12.65" />
+    <ellipse class="color-area" data-area-id="dream-house-12" cx="155" cy="439.9" rx="9.350000000000001" ry="12.65" />
+    <circle class="color-area" data-area-id="dream-house-13" cx="155" cy="430" r="7.700000000000001" />
+  
+      
+    <path class="line" d="M645 469.6 C640.6 448.7 649.4 438.25 645 430" />
+    <ellipse class="color-area" data-area-id="dream-house-14" cx="635.1" cy="430" rx="9.350000000000001" ry="12.65" transform="rotate(-28 635.1 430)" />
+    <ellipse class="color-area" data-area-id="dream-house-15" cx="654.9" cy="430" rx="9.350000000000001" ry="12.65" transform="rotate(28 654.9 430)" />
+    <ellipse class="color-area" data-area-id="dream-house-16" cx="645" cy="420.1" rx="9.350000000000001" ry="12.65" />
+    <ellipse class="color-area" data-area-id="dream-house-17" cx="645" cy="439.9" rx="9.350000000000001" ry="12.65" />
+    <circle class="color-area" data-area-id="dream-house-18" cx="645" cy="430" r="7.700000000000001" />
+  
+    
+</svg>

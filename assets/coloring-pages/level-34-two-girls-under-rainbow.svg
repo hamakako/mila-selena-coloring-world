@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls under rainbow coloring page">
+  <title>Two girls under rainbow</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls under rainbow</text>
+    
+    <path class="color-area" data-area-id="two-girls-under-rainbow-1" d="M184 300
+          A216 168.48 0 0 1 616 300
+          L580 300
+          A180 140.4 0 0 0 220 300 Z" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-2" d="M227.20000000000002 300
+          A172.79999999999998 134.78400000000002 0 0 1 572.8 300
+          L540.4 300
+          A140.4 109.51199999999999 0 0 0 259.6 300 Z" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-3" d="M266.8 300
+          A133.2 103.896 0 0 1 533.2 300
+          L504.4 300
+          A104.39999999999999 81.432 0 0 0 295.6 300 Z" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-4" d="M302.8 300
+          A97.2 75.81599999999999 0 0 1 497.2 300
+          L469.12 300
+          A69.12 53.913599999999995 0 0 0 330.88 300 Z" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-under-rainbow-5" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-under-rainbow-6" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-7" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-8" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-9" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-10" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-11" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-under-rainbow-12" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-under-rainbow-13" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-under-rainbow-14" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-under-rainbow-15" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-16" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-17" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-18" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-19" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-under-rainbow-20" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-under-rainbow-21" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-under-rainbow-22" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

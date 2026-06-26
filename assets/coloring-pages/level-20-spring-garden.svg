@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Spring garden coloring page">
+  <title>Spring garden</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Spring garden</text>
+      <circle class="color-area" data-area-id="spring-garden-1" cx="640" cy="125" r="52" />
+      
+    <path class="color-area" data-area-id="spring-garden-2" d="M130.4 153
+        C134.3 127 160.3 117.9 177.2 132.2
+        C187.6 106.19999999999999 224 114 225.3 137.4
+        C247.4 137.4 253.9 167.3 229.2 169.9
+        L147.3 169.9
+        C129.1 171.2 117.39999999999999 164.7 130.4 153 Z" />
+  
+      
+    <path class="line" d="M180 421.2 C173.2 388.9 186.8 372.75 180 360" />
+    <ellipse class="color-area" data-area-id="spring-garden-3" cx="164.7" cy="360" rx="14.45" ry="19.55" transform="rotate(-28 164.7 360)" />
+    <ellipse class="color-area" data-area-id="spring-garden-4" cx="195.3" cy="360" rx="14.45" ry="19.55" transform="rotate(28 195.3 360)" />
+    <ellipse class="color-area" data-area-id="spring-garden-5" cx="180" cy="344.7" rx="14.45" ry="19.55" />
+    <ellipse class="color-area" data-area-id="spring-garden-6" cx="180" cy="375.3" rx="14.45" ry="19.55" />
+    <circle class="color-area" data-area-id="spring-garden-7" cx="180" cy="360" r="11.9" />
+  
+      
+    <path class="line" d="M315 412 C307 374 323 355 315 340" />
+    <ellipse class="color-area" data-area-id="spring-garden-8" cx="297" cy="340" rx="17" ry="23" transform="rotate(-28 297 340)" />
+    <ellipse class="color-area" data-area-id="spring-garden-9" cx="333" cy="340" rx="17" ry="23" transform="rotate(28 333 340)" />
+    <ellipse class="color-area" data-area-id="spring-garden-10" cx="315" cy="322" rx="17" ry="23" />
+    <ellipse class="color-area" data-area-id="spring-garden-11" cx="315" cy="358" rx="17" ry="23" />
+    <circle class="color-area" data-area-id="spring-garden-12" cx="315" cy="340" r="14" />
+  
+      
+    <path class="line" d="M455 422.6 C448.6 392.2 461.4 377 455 365" />
+    <ellipse class="color-area" data-area-id="spring-garden-13" cx="440.6" cy="365" rx="13.600000000000001" ry="18.400000000000002" transform="rotate(-28 440.6 365)" />
+    <ellipse class="color-area" data-area-id="spring-garden-14" cx="469.4" cy="365" rx="13.600000000000001" ry="18.400000000000002" transform="rotate(28 469.4 365)" />
+    <ellipse class="color-area" data-area-id="spring-garden-15" cx="455" cy="350.6" rx="13.600000000000001" ry="18.400000000000002" />
+    <ellipse class="color-area" data-area-id="spring-garden-16" cx="455" cy="379.4" rx="13.600000000000001" ry="18.400000000000002" />
+    <circle class="color-area" data-area-id="spring-garden-17" cx="455" cy="365" r="11.200000000000001" />
+  
+      
+    <path class="line" d="M590 410.6 C581.6 370.7 598.4 350.75 590 335" />
+    <ellipse class="color-area" data-area-id="spring-garden-18" cx="571.1" cy="335" rx="17.85" ry="24.150000000000002" transform="rotate(-28 571.1 335)" />
+    <ellipse class="color-area" data-area-id="spring-garden-19" cx="608.9" cy="335" rx="17.85" ry="24.150000000000002" transform="rotate(28 608.9 335)" />
+    <ellipse class="color-area" data-area-id="spring-garden-20" cx="590" cy="316.1" rx="17.85" ry="24.150000000000002" />
+    <ellipse class="color-area" data-area-id="spring-garden-21" cx="590" cy="353.9" rx="17.85" ry="24.150000000000002" />
+    <circle class="color-area" data-area-id="spring-garden-22" cx="590" cy="335" r="14.700000000000001" />
+  
+      <path class="color-area" data-area-id="spring-garden-23" d="M110 500 C214 455 340 525 460 488 C574 455 650 500 725 472 L725 545 L110 545 Z" />
+      <ellipse class="color-area" data-area-id="spring-garden-24" cx="380" cy="230" rx="52" ry="72" transform="rotate(-30 380 230)" />
+      <ellipse class="color-area" data-area-id="spring-garden-25" cx="460" cy="230" rx="52" ry="72" transform="rotate(30 460 230)" />
+      <ellipse class="color-area" data-area-id="spring-garden-26" cx="420" cy="250" rx="18" ry="62" />
+    
+</svg>

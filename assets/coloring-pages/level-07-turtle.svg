@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Turtle coloring page">
+  <title>Turtle</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Turtle</text>
+      <ellipse class="color-area" data-area-id="turtle-1" cx="405" cy="330" rx="165" ry="112" />
+      <circle class="color-area" data-area-id="turtle-2" cx="585" cy="302" r="55" />
+      <ellipse class="color-area" data-area-id="turtle-3" cx="288" cy="430" rx="48" ry="26" transform="rotate(-18 288 430)" />
+      <ellipse class="color-area" data-area-id="turtle-4" cx="470" cy="436" rx="48" ry="26" transform="rotate(18 470 436)" />
+      <ellipse class="color-area" data-area-id="turtle-5" cx="295" cy="232" rx="48" ry="26" transform="rotate(20 295 232)" />
+      <ellipse class="color-area" data-area-id="turtle-6" cx="470" cy="226" rx="48" ry="26" transform="rotate(-20 470 226)" />
+      <polygon class="color-area" data-area-id="turtle-7" points="225,330 160,300 160,360" />
+      <path class="line" d="M302 250 L405 440 M405 220 L405 440 M508 250 L405 440 M275 330 L535 330" />
+      <circle class="detail" cx="604" cy="290" r="7" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

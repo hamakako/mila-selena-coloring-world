@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls near a cute house coloring page">
+  <title>Two girls near a cute house</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls near a cute house</text>
+    
+      <rect class="color-area" data-area-id="two-girls-near-a-cute-house-1" x="310" y="255" width="180" height="150" rx="12" />
+      <polygon class="color-area" data-area-id="two-girls-near-a-cute-house-2" points="285,256 400,162 515,256" />
+      <rect class="color-area" data-area-id="two-girls-near-a-cute-house-3" x="378" y="320" width="48" height="85" rx="6" />
+      <rect class="color-area" data-area-id="two-girls-near-a-cute-house-4" x="328" y="292" width="38" height="38" rx="5" />
+      <rect class="color-area" data-area-id="two-girls-near-a-cute-house-5" x="436" y="292" width="38" height="38" rx="5" />
+    
+    
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-6" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-near-a-cute-house-7" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-8" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-9" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-10" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-11" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-12" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-near-a-cute-house-13" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-near-a-cute-house-14" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-15" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-near-a-cute-house-16" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-17" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-18" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-19" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-20" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-near-a-cute-house-21" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-near-a-cute-house-22" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-near-a-cute-house-23" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

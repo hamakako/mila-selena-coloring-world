@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bear coloring page">
+  <title>Bear</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Bear</text>
+      <ellipse class="color-area" data-area-id="bear-1" cx="400" cy="360" rx="132" ry="122" />
+      <circle class="color-area" data-area-id="bear-2" cx="400" cy="235" r="96" />
+      <circle class="color-area" data-area-id="bear-3" cx="318" cy="160" r="38" />
+      <circle class="color-area" data-area-id="bear-4" cx="482" cy="160" r="38" />
+      <ellipse class="color-area" data-area-id="bear-5" cx="400" cy="266" rx="46" ry="34" />
+      <circle class="detail" cx="365" cy="230" r="8" />
+      <circle class="detail" cx="435" cy="230" r="8" />
+      <ellipse class="color-area" data-area-id="bear-6" cx="300" cy="365" rx="44" ry="80" />
+      <ellipse class="color-area" data-area-id="bear-7" cx="500" cy="365" rx="44" ry="80" />
+      <ellipse class="color-area" data-area-id="bear-8" cx="342" cy="482" rx="50" ry="24" />
+      <ellipse class="color-area" data-area-id="bear-9" cx="458" cy="482" rx="50" ry="24" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

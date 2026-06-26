@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Snowman coloring page">
+  <title>Snowman</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Snowman</text>
+      <circle class="color-area" data-area-id="snowman-1" cx="400" cy="410" r="95" />
+      <circle class="color-area" data-area-id="snowman-2" cx="400" cy="285" r="72" />
+      <circle class="color-area" data-area-id="snowman-3" cx="400" cy="190" r="54" />
+      <rect class="color-area" data-area-id="snowman-4" x="340" y="104" width="120" height="38" rx="6" />
+      <rect class="color-area" data-area-id="snowman-5" x="362" y="48" width="78" height="72" rx="8" />
+      <path class="color-area" data-area-id="snowman-6" d="M334 272 L466 272 L442 312 L360 312 Z" />
+      <polygon class="color-area" data-area-id="snowman-7" points="402,192 482,210 402,226" />
+      <path class="line" d="M328 292 L220 240 M472 292 L580 240" />
+      <circle class="detail" cx="380" cy="178" r="6" />
+      <circle class="detail" cx="420" cy="178" r="6" />
+      <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+    
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Party hat coloring page">
+  <title>Party hat</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Party hat</text>
+      <polygon class="color-area" data-area-id="party-hat-1" points="400,90 560,500 240,500" />
+      <path class="line" d="M308 330 C370 294 432 366 496 330 M278 420 C352 382 448 458 526 420" />
+      <circle class="color-area" data-area-id="party-hat-2" cx="400" cy="85" r="38" />
+      <circle class="color-area" data-area-id="party-hat-3" cx="355" cy="260" r="18" />
+      <circle class="color-area" data-area-id="party-hat-4" cx="440" cy="350" r="18" />
+      <circle class="color-area" data-area-id="party-hat-5" cx="392" cy="442" r="18" />
+      <polygon class="color-area" data-area-id="party-hat-6" points="520,144 526.4186149550338,161.16553442142558 544.7274694236739,161.96555814625137 530.3855371579431,173.37446557857442 535.2824165596043,191.03444185374863 520,180.92 504.7175834403957,191.03444185374863 509.6144628420569,173.37446557857442 495.272530576326,161.96555814625137 513.5813850449662,161.16553442142558" />
+      <polygon class="color-area" data-area-id="party-hat-7" points="265,156 270.9248753431081,171.84510869670052 287.8253563910837,172.58359213500125 274.5866496842551,183.11489130329946 279.10684605501933,199.41640786499875 265,190.08 250.89315394498064,199.41640786499875 255.41335031574485,183.11489130329946 242.1746436089163,172.58359213500125 259.0751246568919,171.84510869670052" />
+    
+</svg>

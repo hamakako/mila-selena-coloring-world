@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Puppy coloring page">
+  <title>Puppy</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Puppy</text>
+      <ellipse class="color-area" data-area-id="puppy-1" cx="400" cy="370" rx="128" ry="110" />
+      <circle class="color-area" data-area-id="puppy-2" cx="400" cy="238" r="92" />
+      <ellipse class="color-area" data-area-id="puppy-3" cx="312" cy="238" rx="40" ry="88" transform="rotate(20 312 238)" />
+      <ellipse class="color-area" data-area-id="puppy-4" cx="488" cy="238" rx="40" ry="88" transform="rotate(-20 488 238)" />
+      <path class="color-area" data-area-id="puppy-5" d="M520 350 C650 300 668 410 560 420" />
+      <ellipse class="color-area" data-area-id="puppy-6" cx="400" cy="270" rx="30" ry="24" />
+      <circle class="detail" cx="365" cy="232" r="7" />
+      <circle class="detail" cx="435" cy="232" r="7" />
+      <path class="line" d="M400 292 Q378 312 356 298 M400 292 Q422 312 444 298" />
+      <ellipse class="color-area" data-area-id="puppy-7" cx="340" cy="470" rx="44" ry="24" />
+      <ellipse class="color-area" data-area-id="puppy-8" cx="460" cy="470" rx="44" ry="24" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

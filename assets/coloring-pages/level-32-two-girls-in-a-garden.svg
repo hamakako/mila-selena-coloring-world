@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Two girls in a garden coloring page">
+  <title>Two girls in a garden</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Two girls in a garden</text>
+    
+    <path class="line" d="M130 470.4 C124.4 443.8 135.6 430.5 130 420" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-1" cx="117.4" cy="420" rx="11.899999999999999" ry="16.099999999999998" transform="rotate(-28 117.4 420)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-2" cx="142.6" cy="420" rx="11.899999999999999" ry="16.099999999999998" transform="rotate(28 142.6 420)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-3" cx="130" cy="407.4" rx="11.899999999999999" ry="16.099999999999998" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-4" cx="130" cy="432.6" rx="11.899999999999999" ry="16.099999999999998" />
+    <circle class="color-area" data-area-id="two-girls-in-a-garden-5" cx="130" cy="420" r="9.799999999999999" />
+  
+    <path class="line" d="M650 470.4 C644.4 443.8 655.6 430.5 650 420" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-6" cx="637.4" cy="420" rx="11.899999999999999" ry="16.099999999999998" transform="rotate(-28 637.4 420)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-7" cx="662.6" cy="420" rx="11.899999999999999" ry="16.099999999999998" transform="rotate(28 662.6 420)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-8" cx="650" cy="407.4" rx="11.899999999999999" ry="16.099999999999998" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-9" cx="650" cy="432.6" rx="11.899999999999999" ry="16.099999999999998" />
+    <circle class="color-area" data-area-id="two-girls-in-a-garden-10" cx="650" cy="420" r="9.799999999999999" />
+  
+    <path class="line" d="M400 476.8 C394.8 452.1 405.2 439.75 400 430" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-11" cx="388.3" cy="430" rx="11.05" ry="14.950000000000001" transform="rotate(-28 388.3 430)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-12" cx="411.7" cy="430" rx="11.05" ry="14.950000000000001" transform="rotate(28 411.7 430)" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-13" cx="400" cy="418.3" rx="11.05" ry="14.950000000000001" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-14" cx="400" cy="441.7" rx="11.05" ry="14.950000000000001" />
+    <circle class="color-area" data-area-id="two-girls-in-a-garden-15" cx="400" cy="430" r="9.1" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-in-a-garden-16" d="M252 138 C200 176 220 256 258 270 C288 254 340 262 370 278 C410 206 382 146 330 132 Z" />
+    <circle class="color-area" data-area-id="two-girls-in-a-garden-17" cx="310" cy="184" r="52" />
+    <circle class="detail" cx="292" cy="176" r="5" />
+    <circle class="detail" cx="328" cy="176" r="5" />
+    <path class="line" d="M294 202 Q310 214 326 202" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-18" d="M260 255 L360 255 L385 410 L235 410 Z" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-19" d="M260 268 C205 298 192 354 232 374" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-20" d="M360 268 C415 298 428 354 388 374" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-21" d="M276 408 L268 496" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-22" d="M344 408 L352 496" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-23" cx="267" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-24" cx="353" cy="502" rx="26" ry="12" />
+  
+    
+    <path class="color-area" data-area-id="two-girls-in-a-garden-25" d="M438 146 C402 212 442 270 482 260 C512 284 576 258 562 176 C540 128 478 120 438 146 Z" />
+    <circle class="color-area" data-area-id="two-girls-in-a-garden-26" cx="500" cy="184" r="52" />
+    <circle class="detail" cx="482" cy="176" r="5" />
+    <circle class="detail" cx="518" cy="176" r="5" />
+    <path class="line" d="M484 202 Q500 214 516 202" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-27" d="M450 255 L550 255 L575 410 L425 410 Z" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-28" d="M450 268 C395 298 382 354 422 374" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-29" d="M550 268 C605 298 618 354 578 374" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-30" d="M466 408 L458 496" />
+    <path class="color-area" data-area-id="two-girls-in-a-garden-31" d="M534 408 L542 496" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-32" cx="457" cy="502" rx="26" ry="12" />
+    <ellipse class="color-area" data-area-id="two-girls-in-a-garden-33" cx="543" cy="502" rx="26" ry="12" />
+  
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

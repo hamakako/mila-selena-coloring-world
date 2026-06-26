@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Candy land coloring page">
+  <title>Candy land</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Candy land</text>
+      <path class="color-area" data-area-id="candy-land-1" d="M95 500 C180 430 280 540 390 480 C520 410 620 520 705 455 L705 548 L95 548 Z" />
+      <circle class="color-area" data-area-id="candy-land-2" cx="205" cy="290" r="58" />
+      <path class="line" d="M205 348 L205 505 M160 250 C190 278 220 278 250 250 M160 330 C190 302 220 302 250 330" />
+      <circle class="color-area" data-area-id="candy-land-3" cx="575" cy="285" r="58" />
+      <path class="line" d="M575 343 L575 505 M530 245 C560 275 590 275 620 245 M530 325 C560 300 590 300 620 325" />
+      <path class="color-area" data-area-id="candy-land-4" d="M330 360 C330 250 470 250 470 360 L470 505 L330 505 Z" />
+      <path class="line" d="M350 290 C390 330 410 330 450 290 M345 370 C390 420 415 420 455 370" />
+    
+</svg>

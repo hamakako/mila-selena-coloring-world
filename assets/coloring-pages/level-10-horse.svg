@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Horse coloring page">
+  <title>Horse</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Horse</text>
+      <ellipse class="color-area" data-area-id="horse-1" cx="418" cy="342" rx="156" ry="88" />
+      <path class="color-area" data-area-id="horse-2" d="M285 318 C242 232 282 158 350 188 C372 206 352 282 330 318 Z" />
+      <circle class="color-area" data-area-id="horse-3" cx="340" cy="184" r="52" />
+      <path class="color-area" data-area-id="horse-4" d="M384 176 L430 118 L438 196" />
+      <path class="color-area" data-area-id="horse-5" d="M552 335 C650 286 686 374 604 404" />
+      <path class="color-area" data-area-id="horse-6" d="M350 418 L328 510 M444 420 L430 514 M502 410 L528 506" />
+      <ellipse class="color-area" data-area-id="horse-7" cx="323" cy="520" rx="32" ry="12" />
+      <ellipse class="color-area" data-area-id="horse-8" cx="426" cy="524" rx="32" ry="12" />
+      <ellipse class="color-area" data-area-id="horse-9" cx="530" cy="516" rx="32" ry="12" />
+      <circle class="detail" cx="322" cy="174" r="7" />
+      <path class="line" d="M300 205 Q328 220 358 205" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

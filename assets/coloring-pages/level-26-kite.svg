@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Kite coloring page">
+  <title>Kite</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Kite</text>
+      <polygon class="color-area" data-area-id="kite-1" points="400,100 560,260 400,430 240,260" />
+      <path class="line" d="M400 100 L400 430 M240 260 L560 260" />
+      <path class="line" d="M400 430 C330 492 455 510 390 565" />
+      <path class="color-area" data-area-id="kite-2" d="M344 486 L302 460 L308 512 Z" />
+      <path class="color-area" data-area-id="kite-3" d="M438 520 L490 498 L482 552 Z" />
+      
+    <path class="color-area" data-area-id="kite-4" d="M114.6 182
+        C118.2 158 142.2 149.6 157.8 162.8
+        C167.4 138.8 201 146 202.2 167.6
+        C222.6 167.6 228.6 195.2 205.8 197.6
+        L130.2 197.6
+        C113.4 198.8 102.6 192.8 114.6 182 Z" />
+  
+      
+    <path class="color-area" data-area-id="kite-5" d="M588.8 161
+        C592.1 139 614.1 131.3 628.4 143.4
+        C637.2 121.4 668 128 669.1 147.8
+        C687.8 147.8 693.3 173.1 672.4 175.3
+        L603.1 175.3
+        C587.7 176.4 577.8 170.9 588.8 161 Z" />
+  
+    
+</svg>

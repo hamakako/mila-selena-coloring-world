@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Birthday cake coloring page">
+  <title>Birthday cake</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Birthday cake</text>
+      <rect class="color-area" data-area-id="birthday-cake-1" x="235" y="330" width="330" height="150" rx="18" />
+      <rect class="color-area" data-area-id="birthday-cake-2" x="285" y="230" width="230" height="105" rx="18" />
+      <path class="color-area" data-area-id="birthday-cake-3" d="M236 360 C280 405 312 330 358 365 C402 400 440 330 484 365 C520 395 545 350 565 360" />
+      <path class="color-area" data-area-id="birthday-cake-4" d="M286 260 C320 296 350 232 382 260 C414 292 450 232 514 260" />
+      <rect class="color-area" data-area-id="birthday-cake-5" x="315" y="148" width="28" height="82" rx="8" />
+      <rect class="color-area" data-area-id="birthday-cake-6" x="386" y="128" width="28" height="102" rx="8" />
+      <rect class="color-area" data-area-id="birthday-cake-7" x="458" y="148" width="28" height="82" rx="8" />
+      <path class="color-area" data-area-id="birthday-cake-8" d="M329 148 C304 120 330 92 344 124 C350 136 340 148 329 148 Z" />
+      <path class="color-area" data-area-id="birthday-cake-9" d="M400 128 C375 100 401 72 415 104 C421 116 411 128 400 128 Z" />
+      <path class="color-area" data-area-id="birthday-cake-10" d="M472 148 C447 120 473 92 487 124 C493 136 483 148 472 148 Z" />
+    
+</svg>

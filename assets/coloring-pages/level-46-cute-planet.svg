@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Cute planet coloring page">
+  <title>Cute planet</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Cute planet</text>
+      <circle class="color-area" data-area-id="cute-planet-1" cx="400" cy="300" r="125" />
+      <path class="color-area" data-area-id="cute-planet-2" d="M170 320 C260 230 540 230 630 320 C540 398 260 398 170 320 Z" />
+      <circle class="color-area" data-area-id="cute-planet-3" cx="360" cy="270" r="22" />
+      <circle class="color-area" data-area-id="cute-planet-4" cx="455" cy="335" r="26" />
+      <circle class="detail" cx="360" cy="300" r="7" />
+      <circle class="detail" cx="440" cy="300" r="7" />
+      <path class="line" d="M370 345 Q400 370 430 345" />
+      <polygon class="color-area" data-area-id="cute-planet-5" points="155,122 161.9123545669595,140.4859601461506 181.6295824562643,141.34752415750148 166.184424631631,153.63403985384937 171.45798706418924,172.65247584249852 155,161.76 138.54201293581076,172.65247584249852 143.815575368369,153.63403985384937 128.3704175437357,141.34752415750148 148.0876454330405,140.48596014615063" />
+      <polygon class="color-area" data-area-id="cute-planet-6" points="650,400 657.4060941788852,419.80638587087566 678.5316954888546,420.72949016875157 661.983312105319,433.89361412912433 667.6335575687742,454.27050983124843 650,442.6 632.3664424312258,454.27050983124843 638.016687894681,433.89361412912433 621.4683045111453,420.72949016875157 642.5939058211148,419.80638587087566" />
+      <polygon class="color-area" data-area-id="cute-planet-7" points="612,123 617.4311357311825,137.5246829719755 632.9232433584933,138.20162612375117 620.7877622105672,147.8553170280245 624.9312755504344,162.79837387624883 612,154.24 599.0687244495656,162.79837387624883 603.2122377894328,147.8553170280245 591.0767566415066,138.20162612375117 606.5688642688175,137.5246829719755" />
+    
+</svg>

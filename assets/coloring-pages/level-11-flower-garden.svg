@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Flower garden coloring page">
+  <title>Flower garden</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Flower garden</text>
+      
+    <path class="line" d="M170 399.8 C162.8 365.6 177.2 348.5 170 335" />
+    <ellipse class="color-area" data-area-id="flower-garden-1" cx="153.8" cy="335" rx="15.3" ry="20.7" transform="rotate(-28 153.8 335)" />
+    <ellipse class="color-area" data-area-id="flower-garden-2" cx="186.2" cy="335" rx="15.3" ry="20.7" transform="rotate(28 186.2 335)" />
+    <ellipse class="color-area" data-area-id="flower-garden-3" cx="170" cy="318.8" rx="15.3" ry="20.7" />
+    <ellipse class="color-area" data-area-id="flower-garden-4" cx="170" cy="351.2" rx="15.3" ry="20.7" />
+    <circle class="color-area" data-area-id="flower-garden-5" cx="170" cy="335" r="12.6" />
+  
+      
+    <path class="line" d="M285 394.2 C276.2 352.4 293.8 331.5 285 315" />
+    <ellipse class="color-area" data-area-id="flower-garden-6" cx="265.2" cy="315" rx="18.700000000000003" ry="25.3" transform="rotate(-28 265.2 315)" />
+    <ellipse class="color-area" data-area-id="flower-garden-7" cx="304.8" cy="315" rx="18.700000000000003" ry="25.3" transform="rotate(28 304.8 315)" />
+    <ellipse class="color-area" data-area-id="flower-garden-8" cx="285" cy="295.2" rx="18.700000000000003" ry="25.3" />
+    <ellipse class="color-area" data-area-id="flower-garden-9" cx="285" cy="334.8" rx="18.700000000000003" ry="25.3" />
+    <circle class="color-area" data-area-id="flower-garden-10" cx="285" cy="315" r="15.400000000000002" />
+  
+      
+    <path class="line" d="M420 403.2 C413.2 370.9 426.8 354.75 420 342" />
+    <ellipse class="color-area" data-area-id="flower-garden-11" cx="404.7" cy="342" rx="14.45" ry="19.55" transform="rotate(-28 404.7 342)" />
+    <ellipse class="color-area" data-area-id="flower-garden-12" cx="435.3" cy="342" rx="14.45" ry="19.55" transform="rotate(28 435.3 342)" />
+    <ellipse class="color-area" data-area-id="flower-garden-13" cx="420" cy="326.7" rx="14.45" ry="19.55" />
+    <ellipse class="color-area" data-area-id="flower-garden-14" cx="420" cy="357.3" rx="14.45" ry="19.55" />
+    <circle class="color-area" data-area-id="flower-garden-15" cx="420" cy="342" r="11.9" />
+  
+      
+    <path class="line" d="M550 392.8 C540.8 349.1 559.2 327.25 550 310" />
+    <ellipse class="color-area" data-area-id="flower-garden-16" cx="529.3" cy="310" rx="19.549999999999997" ry="26.45" transform="rotate(-28 529.3 310)" />
+    <ellipse class="color-area" data-area-id="flower-garden-17" cx="570.7" cy="310" rx="19.549999999999997" ry="26.45" transform="rotate(28 570.7 310)" />
+    <ellipse class="color-area" data-area-id="flower-garden-18" cx="550" cy="289.3" rx="19.549999999999997" ry="26.45" />
+    <ellipse class="color-area" data-area-id="flower-garden-19" cx="550" cy="330.7" rx="19.549999999999997" ry="26.45" />
+    <circle class="color-area" data-area-id="flower-garden-20" cx="550" cy="310" r="16.099999999999998" />
+  
+      
+    <path class="line" d="M650 413.6 C643.6 383.2 656.4 368 650 356" />
+    <ellipse class="color-area" data-area-id="flower-garden-21" cx="635.6" cy="356" rx="13.600000000000001" ry="18.400000000000002" transform="rotate(-28 635.6 356)" />
+    <ellipse class="color-area" data-area-id="flower-garden-22" cx="664.4" cy="356" rx="13.600000000000001" ry="18.400000000000002" transform="rotate(28 664.4 356)" />
+    <ellipse class="color-area" data-area-id="flower-garden-23" cx="650" cy="341.6" rx="13.600000000000001" ry="18.400000000000002" />
+    <ellipse class="color-area" data-area-id="flower-garden-24" cx="650" cy="370.4" rx="13.600000000000001" ry="18.400000000000002" />
+    <circle class="color-area" data-area-id="flower-garden-25" cx="650" cy="356" r="11.200000000000001" />
+  
+      <path class="color-area" data-area-id="flower-garden-26" d="M105 500 C210 448 340 520 460 488 C578 456 650 494 724 470 L724 542 L105 542 Z" />
+    
+</svg>

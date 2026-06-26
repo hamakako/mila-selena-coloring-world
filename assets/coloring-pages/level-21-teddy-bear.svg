@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Teddy bear coloring page">
+  <title>Teddy bear</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Teddy bear</text>
+      <circle class="color-area" data-area-id="teddy-bear-1" cx="400" cy="245" r="92" />
+      <circle class="color-area" data-area-id="teddy-bear-2" cx="318" cy="168" r="38" />
+      <circle class="color-area" data-area-id="teddy-bear-3" cx="482" cy="168" r="38" />
+      <ellipse class="color-area" data-area-id="teddy-bear-4" cx="400" cy="392" rx="126" ry="116" />
+      <ellipse class="color-area" data-area-id="teddy-bear-5" cx="282" cy="380" rx="45" ry="82" transform="rotate(25 282 380)" />
+      <ellipse class="color-area" data-area-id="teddy-bear-6" cx="518" cy="380" rx="45" ry="82" transform="rotate(-25 518 380)" />
+      <ellipse class="color-area" data-area-id="teddy-bear-7" cx="342" cy="505" rx="54" ry="28" />
+      <ellipse class="color-area" data-area-id="teddy-bear-8" cx="458" cy="505" rx="54" ry="28" />
+      <ellipse class="color-area" data-area-id="teddy-bear-9" cx="400" cy="275" rx="42" ry="32" />
+      <circle class="detail" cx="365" cy="235" r="7" />
+      <circle class="detail" cx="435" cy="235" r="7" />
+    
+</svg>

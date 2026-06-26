@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Cupcake coloring page">
+  <title>Cupcake</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Cupcake</text>
+      <path class="color-area" data-area-id="cupcake-1" d="M260 300 C248 212 340 210 365 252 C390 178 500 205 485 292 C560 296 572 380 508 402 L292 402 C230 380 218 316 260 300 Z" />
+      <path class="color-area" data-area-id="cupcake-2" d="M285 400 L515 400 L478 535 L322 535 Z" />
+      <path class="line" d="M325 410 L340 528 M382 410 L388 532 M440 410 L430 532 M490 410 L464 530" />
+      <circle class="color-area" data-area-id="cupcake-3" cx="400" cy="190" r="22" />
+      <circle class="color-area" data-area-id="cupcake-4" cx="330" cy="300" r="14" />
+      <circle class="color-area" data-area-id="cupcake-5" cx="455" cy="282" r="14" />
+    
+</svg>

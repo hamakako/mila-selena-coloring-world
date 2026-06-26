@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Balloons coloring page">
+  <title>Balloons</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Balloons</text>
+      <ellipse class="color-area" data-area-id="balloons-1" cx="260" cy="210" rx="70" ry="92" />
+      <ellipse class="color-area" data-area-id="balloons-2" cx="400" cy="170" rx="72" ry="98" />
+      <ellipse class="color-area" data-area-id="balloons-3" cx="540" cy="215" rx="70" ry="92" />
+      <ellipse class="color-area" data-area-id="balloons-4" cx="335" cy="300" rx="65" ry="84" />
+      <ellipse class="color-area" data-area-id="balloons-5" cx="475" cy="300" rx="65" ry="84" />
+      <path class="line" d="M260 304 C250 385 345 410 385 522 M400 268 C418 350 350 415 385 522 M540 307 C562 388 420 428 385 522 M335 384 C330 435 365 475 385 522 M475 384 C480 438 410 476 385 522" />
+      <path class="color-area" data-area-id="balloons-6" d="M348 522 C370 496 405 496 426 522 C405 545 370 545 348 522 Z" />
+    
+</svg>

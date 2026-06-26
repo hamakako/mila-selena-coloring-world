@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Fish coloring page">
+  <title>Fish</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Fish</text>
+      <ellipse class="color-area" data-area-id="fish-1" cx="390" cy="300" rx="160" ry="92" />
+      <polygon class="color-area" data-area-id="fish-2" points="540,300 685,205 682,395" />
+      <path class="color-area" data-area-id="fish-3" d="M310 226 C360 150 445 150 490 230" />
+      <path class="color-area" data-area-id="fish-4" d="M320 374 C375 452 455 448 505 370" />
+      <path class="color-area" data-area-id="fish-5" d="M250 300 C210 268 210 332 250 300" />
+      <circle class="detail" cx="300" cy="270" r="9" />
+      <path class="line" d="M372 220 C340 268 342 334 382 382 M450 220 C420 274 420 326 458 380" />
+      <circle class="color-area" data-area-id="fish-6" cx="165" cy="180" r="24" />
+      <circle class="color-area" data-area-id="fish-7" cx="125" cy="255" r="16" />
+      <circle class="color-area" data-area-id="fish-8" cx="178" cy="340" r="20" />
+    <path class="line" d="M90 506 C210 480 310 520 430 500 C545 480 635 506 720 488" />
+</svg>

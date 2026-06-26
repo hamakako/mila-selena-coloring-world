@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Beach coloring page">
+  <title>Beach</title>
+  <style>
+    .color-area{fill:#fff;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .line{fill:none;stroke:#171421;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+    .detail{fill:#171421;stroke:none}
+    .page-label{font-family:Arial,sans-serif;font-size:38px;font-weight:800;fill:#171421;text-anchor:middle}
+  </style>
+  <text class="page-label" x="400" y="66">Beach</text>
+      <circle class="color-area" data-area-id="beach-1" cx="655" cy="118" r="58" />
+      <path class="color-area" data-area-id="beach-2" d="M115 430 C215 392 310 462 410 430 C520 394 590 452 705 420 L705 535 L115 535 Z" />
+      <path class="color-area" data-area-id="beach-3" d="M220 338 L420 278 L612 338 C525 392 318 394 220 338 Z" />
+      <path class="line" d="M416 338 L380 520" />
+      <rect class="color-area" data-area-id="beach-4" x="520" y="430" width="88" height="82" rx="12" />
+      <path class="color-area" data-area-id="beach-5" d="M505 430 L622 430 L604 390 L522 390 Z" />
+      <circle class="color-area" data-area-id="beach-6" cx="230" cy="455" r="42" />
+      <path class="line" d="M95 350 C150 330 200 370 255 350 C310 330 365 370 420 350 M92 390 C150 370 200 410 258 390 C314 370 370 410 425 390" />
+    
+</svg>
