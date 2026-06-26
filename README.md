@@ -94,7 +94,13 @@ Simple Vercel option:
 
 ## Permanent Live Website Link
 
-Use GitHub Pages or Render for the final link. This package includes both:
+Current permanent GitHub Pages link:
+
+```text
+https://hamakako.github.io/mila-selena-coloring-world/
+```
+
+This package also includes deployment config for future updates:
 
 - `.github/workflows/pages.yml` for GitHub Pages
 - `render.yaml` for Render
