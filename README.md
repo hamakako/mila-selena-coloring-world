@@ -106,9 +106,22 @@ Current permanent GitHub Pages link:
 https://hamakako.github.io/mila-selena-coloring-world/
 ```
 
+Android APK download page:
+
+```text
+https://hamakako.github.io/mila-selena-coloring-world/downloads/
+```
+
+Direct APK file:
+
+```text
+https://hamakako.github.io/mila-selena-coloring-world/downloads/mila-selena-coloring-world.apk
+```
+
 This package also includes deployment config for future updates:
 
 - `.github/workflows/pages.yml` for GitHub Pages
+- `.github/workflows/android-apk.yml` for the Android APK
 - `render.yaml` for Render
 
 Cloudflare quick tunnel links are not permanent, so do not use them as the final family link.
@@ -127,4 +140,5 @@ Remember: publishing with the current `profile.jpg` files makes those photos pub
 - Level locking, completion stars, and progress
 - Sound On / Off button with subtitles
 - Kid-friendly musical reactions with Mila/Selena name-specific encouragement clips
+- Android APK build for tablet and phone
 - Mobile, tablet, and desktop responsive layout
