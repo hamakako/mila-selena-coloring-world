@@ -1,5 +1,5 @@
-import { ColoringBoard } from "./coloring.js?v=20260626-nospeech1";
-import { levels } from "./levels.js?v=20260626-nospeech1";
+import { ColoringBoard } from "./coloring.js?v=20260626-girlvoice1";
+import { levels } from "./levels.js?v=20260626-girlvoice1";
 import {
   addGalleryItem,
   clearAllProgress,
@@ -9,7 +9,7 @@ import {
   saveState,
   setPlayer,
   setVoiceOn,
-} from "./storage.js?v=20260626-nospeech1";
+} from "./storage.js?v=20260626-girlvoice1";
 import {
   enableVoiceAfterStart,
   playReaction,
@@ -17,7 +17,7 @@ import {
   setSubtitleTarget,
   speak,
   stopVoice,
-} from "./voice.js?v=20260626-nospeech1";
+} from "./voice.js?v=20260626-girlvoice1";
 
 const players = {
   mila: {
@@ -121,6 +121,7 @@ export function createGame(root) {
         });
         speak(state.voiceOn ? "Sound on!" : "Quiet mode.", state.voiceOn, {
           reaction: state.voiceOn ? "great" : "tap",
+          girlSound: state.voiceOn ? "sound_on" : null,
         });
       });
     });
@@ -172,6 +173,7 @@ export function createGame(root) {
       renderPlayerSelect();
       speak("Hi! Let us color together.", state.voiceOn, {
         reaction: "great",
+        girlSound: "lets_color",
       });
     });
   };
@@ -202,6 +204,7 @@ export function createGame(root) {
         renderLevelMap();
         speak(`Hi, ${player.name}! Pick a picture.`, state.voiceOn, {
           reaction: "great",
+          girlSound: "pick_picture",
         });
       });
     });
@@ -450,10 +453,12 @@ export function createGame(root) {
     if (speakAfterSave) {
       speak(`Saved! Good job, ${playerName()}.`, state.voiceOn, {
         reaction: "save",
+        girlSound: "saved",
       });
     } else {
       speak("Saved! Good job.", state.voiceOn, {
         reaction: "save",
+        girlSound: "saved",
       });
     }
     return item;
@@ -507,6 +512,7 @@ export function createGame(root) {
     `);
     speak(voiceMessage, state.voiceOn, {
       reaction: score.stars === 3 ? "celebrate" : score.stars === 2 ? "great" : "gentle",
+      girlSound: score.stars === 3 ? "three_stars" : score.stars === 2 ? "two_stars" : "good_try",
     });
     root.querySelector("[data-next]")?.addEventListener("click", (event) => {
       renderColoring(Number(event.currentTarget.dataset.next));

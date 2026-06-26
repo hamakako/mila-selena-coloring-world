@@ -62,7 +62,13 @@ src/game.js
 src/voice.js
 ```
 
-Look for the `speak(...)` captions in `src/game.js`. The audible reactions are music-only Web Audio notes in `src/voice.js`. There is no computer speech or bundled voice file now, so the app uses soft tap, save, try-again, and win melodies instead of a robot voice. Sounds start only after the player taps Start.
+Look for the `speak(...)` captions in `src/game.js`. The audible reactions are in `src/voice.js`. The app uses soft Web Audio chimes plus short bundled girl reaction clips in:
+
+```text
+assets/sounds/girl/
+```
+
+There is no browser Text-to-Speech. The girl clips are only quick reactions such as "Let's color", "Saved", "Good try", and "Yay, three stars", so the app avoids long robot talking. Sounds start only after the player taps Start.
 
 ## How to Deploy Online
 
@@ -120,5 +126,5 @@ Remember: publishing with the current `profile.jpg` files makes those photos pub
 - Gallery with open, download PNG, and delete
 - Level locking, completion stars, and progress
 - Sound On / Off button with subtitles
-- Kid-friendly musical reactions with no robot voice
+- Kid-friendly musical reactions with short girl encouragement clips
 - Mobile, tablet, and desktop responsive layout

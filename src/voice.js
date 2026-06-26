@@ -5,6 +5,19 @@ let subtitleTimer = null;
 let reactionTimer = null;
 let audioContext = null;
 let audioUnlocked = false;
+let girlSoundTimer = null;
+const girlSoundCache = new Map();
+
+const girlSoundVersion = "20260626-girlvoice1";
+const girlSoundSources = {
+  lets_color: "./assets/sounds/girl/lets_color.m4a",
+  pick_picture: "./assets/sounds/girl/pick_picture.m4a",
+  saved: "./assets/sounds/girl/saved.m4a",
+  good_try: "./assets/sounds/girl/good_try.m4a",
+  two_stars: "./assets/sounds/girl/two_stars.m4a",
+  three_stars: "./assets/sounds/girl/three_stars.m4a",
+  sound_on: "./assets/sounds/girl/sound_on.m4a",
+};
 
 const fallbackMessages = [
   "You are doing amazing!",
@@ -15,6 +28,7 @@ const fallbackMessages = [
 export function enableVoiceAfterStart() {
   hasStarted = true;
   unlockAudio();
+  preloadGirlSounds();
 }
 
 export function setSubtitleTarget(element) {
@@ -45,7 +59,9 @@ export function setSubtitle(text) {
 
 export function speak(text, voiceOn = true, options = {}) {
   setSubtitle(text);
-  playReaction(options.reaction || "kind", voiceOn);
+  const reaction = options.reaction || "kind";
+  playReaction(reaction, voiceOn);
+  playGirlSound(options.girlSound || girlSoundForReaction(reaction), voiceOn);
 }
 
 export function speakForPlayer(playerName, voiceOn, messages = fallbackMessages) {
@@ -54,7 +70,12 @@ export function speakForPlayer(playerName, voiceOn, messages = fallbackMessages)
 }
 
 export function stopVoice() {
-  // Sounds are short Web Audio notes, so there is no queued speech to stop.
+  clearTimeout(girlSoundTimer);
+  girlSoundTimer = null;
+  girlSoundCache.forEach((audio) => {
+    audio.pause();
+    audio.currentTime = 0;
+  });
 }
 
 export function playReaction(type = "tap", voiceOn = true) {
@@ -162,6 +183,62 @@ function playTone(context, frequency, start, type) {
   gain.connect(context.destination);
   oscillator.start(start);
   oscillator.stop(start + (type === "celebrate" ? 0.52 : 0.36));
+}
+
+function girlSoundForReaction(type) {
+  if (type === "celebrate") {
+    return "three_stars";
+  }
+  if (type === "great") {
+    return "lets_color";
+  }
+  if (type === "gentle") {
+    return "good_try";
+  }
+  if (type === "save") {
+    return "saved";
+  }
+  return null;
+}
+
+function preloadGirlSounds() {
+  Object.keys(girlSoundSources).forEach((soundName) => getGirlSound(soundName));
+}
+
+function getGirlSound(soundName) {
+  const source = girlSoundSources[soundName];
+  if (!source) {
+    return null;
+  }
+  if (!girlSoundCache.has(soundName)) {
+    const separator = source.includes("?") ? "&" : "?";
+    const audio = new Audio(`${source}${separator}v=${girlSoundVersion}`);
+    audio.preload = "auto";
+    audio.volume = 0.82;
+    girlSoundCache.set(soundName, audio);
+  }
+  return girlSoundCache.get(soundName);
+}
+
+function playGirlSound(soundName, voiceOn) {
+  if (!voiceOn || !hasStarted || !soundName) {
+    return;
+  }
+  const audio = getGirlSound(soundName);
+  if (!audio) {
+    return;
+  }
+  clearTimeout(girlSoundTimer);
+  girlSoundCache.forEach((otherAudio) => {
+    if (otherAudio !== audio) {
+      otherAudio.pause();
+      otherAudio.currentTime = 0;
+    }
+  });
+  girlSoundTimer = window.setTimeout(() => {
+    audio.currentTime = 0;
+    audio.play().catch(() => {});
+  }, 120);
 }
 
 function showReaction(type) {
