@@ -8,21 +8,21 @@ let audioUnlocked = false;
 let girlSoundTimer = null;
 const girlSoundCache = new Map();
 
-const girlSoundVersion = "20260626-namevoice1";
+const girlSoundVersion = "20260626-neuralvoice1";
 const girlSoundSources = {
-  welcome: "./assets/sounds/girl/welcome.m4a",
-  choose_mila: "./assets/sounds/girl/choose_mila.m4a",
-  choose_selena: "./assets/sounds/girl/choose_selena.m4a",
-  saved_mila: "./assets/sounds/girl/saved_mila.m4a",
-  saved_selena: "./assets/sounds/girl/saved_selena.m4a",
-  saved_artwork: "./assets/sounds/girl/saved_artwork.m4a",
-  one_star_mila: "./assets/sounds/girl/one_star_mila.m4a",
-  one_star_selena: "./assets/sounds/girl/one_star_selena.m4a",
-  two_stars_mila: "./assets/sounds/girl/two_stars_mila.m4a",
-  two_stars_selena: "./assets/sounds/girl/two_stars_selena.m4a",
-  three_stars_mila: "./assets/sounds/girl/three_stars_mila.m4a",
-  three_stars_selena: "./assets/sounds/girl/three_stars_selena.m4a",
-  sound_on: "./assets/sounds/girl/sound_on.m4a",
+  welcome: "./assets/sounds/girl/welcome.mp3",
+  choose_mila: "./assets/sounds/girl/choose_mila.mp3",
+  choose_selena: "./assets/sounds/girl/choose_selena.mp3",
+  saved_mila: "./assets/sounds/girl/saved_mila.mp3",
+  saved_selena: "./assets/sounds/girl/saved_selena.mp3",
+  saved_artwork: "./assets/sounds/girl/saved_artwork.mp3",
+  one_star_mila: "./assets/sounds/girl/one_star_mila.mp3",
+  one_star_selena: "./assets/sounds/girl/one_star_selena.mp3",
+  two_stars_mila: "./assets/sounds/girl/two_stars_mila.mp3",
+  two_stars_selena: "./assets/sounds/girl/two_stars_selena.mp3",
+  three_stars_mila: "./assets/sounds/girl/three_stars_mila.mp3",
+  three_stars_selena: "./assets/sounds/girl/three_stars_selena.mp3",
+  sound_on: "./assets/sounds/girl/sound_on.mp3",
 };
 
 const fallbackMessages = [

@@ -1,5 +1,5 @@
-import { ColoringBoard } from "./coloring.js?v=20260626-namevoice1";
-import { levels } from "./levels.js?v=20260626-namevoice1";
+import { ColoringBoard } from "./coloring.js?v=20260626-neuralvoice1";
+import { levels } from "./levels.js?v=20260626-neuralvoice1";
 import {
   addGalleryItem,
   clearAllProgress,
@@ -9,7 +9,7 @@ import {
   saveState,
   setPlayer,
   setVoiceOn,
-} from "./storage.js?v=20260626-namevoice1";
+} from "./storage.js?v=20260626-neuralvoice1";
 import {
   enableVoiceAfterStart,
   playReaction,
@@ -17,7 +17,7 @@ import {
   setSubtitleTarget,
   speak,
   stopVoice,
-} from "./voice.js?v=20260626-namevoice1";
+} from "./voice.js?v=20260626-neuralvoice1";
 
 const players = {
   mila: {
