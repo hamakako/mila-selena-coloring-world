@@ -8,14 +8,20 @@ let audioUnlocked = false;
 let girlSoundTimer = null;
 const girlSoundCache = new Map();
 
-const girlSoundVersion = "20260626-girlvoice1";
+const girlSoundVersion = "20260626-namevoice1";
 const girlSoundSources = {
-  lets_color: "./assets/sounds/girl/lets_color.m4a",
-  pick_picture: "./assets/sounds/girl/pick_picture.m4a",
-  saved: "./assets/sounds/girl/saved.m4a",
-  good_try: "./assets/sounds/girl/good_try.m4a",
-  two_stars: "./assets/sounds/girl/two_stars.m4a",
-  three_stars: "./assets/sounds/girl/three_stars.m4a",
+  welcome: "./assets/sounds/girl/welcome.m4a",
+  choose_mila: "./assets/sounds/girl/choose_mila.m4a",
+  choose_selena: "./assets/sounds/girl/choose_selena.m4a",
+  saved_mila: "./assets/sounds/girl/saved_mila.m4a",
+  saved_selena: "./assets/sounds/girl/saved_selena.m4a",
+  saved_artwork: "./assets/sounds/girl/saved_artwork.m4a",
+  one_star_mila: "./assets/sounds/girl/one_star_mila.m4a",
+  one_star_selena: "./assets/sounds/girl/one_star_selena.m4a",
+  two_stars_mila: "./assets/sounds/girl/two_stars_mila.m4a",
+  two_stars_selena: "./assets/sounds/girl/two_stars_selena.m4a",
+  three_stars_mila: "./assets/sounds/girl/three_stars_mila.m4a",
+  three_stars_selena: "./assets/sounds/girl/three_stars_selena.m4a",
   sound_on: "./assets/sounds/girl/sound_on.m4a",
 };
 
@@ -177,7 +183,7 @@ function playTone(context, frequency, start, type) {
   oscillator.type = type === "tap" || type === "fill" ? "sine" : "triangle";
   oscillator.frequency.setValueAtTime(frequency, start);
   gain.gain.setValueAtTime(0.0001, start);
-  gain.gain.exponentialRampToValueAtTime(type === "tap" || type === "fill" ? 0.025 : 0.075, start + 0.02);
+  gain.gain.exponentialRampToValueAtTime(type === "tap" || type === "fill" ? 0.012 : 0.028, start + 0.02);
   gain.gain.exponentialRampToValueAtTime(0.0001, start + (type === "celebrate" ? 0.5 : 0.34));
   oscillator.connect(gain);
   gain.connect(context.destination);
@@ -187,16 +193,16 @@ function playTone(context, frequency, start, type) {
 
 function girlSoundForReaction(type) {
   if (type === "celebrate") {
-    return "three_stars";
+    return null;
   }
   if (type === "great") {
-    return "lets_color";
+    return null;
   }
   if (type === "gentle") {
-    return "good_try";
+    return null;
   }
   if (type === "save") {
-    return "saved";
+    return null;
   }
   return null;
 }
@@ -214,7 +220,7 @@ function getGirlSound(soundName) {
     const separator = source.includes("?") ? "&" : "?";
     const audio = new Audio(`${source}${separator}v=${girlSoundVersion}`);
     audio.preload = "auto";
-    audio.volume = 0.82;
+    audio.volume = 0.95;
     girlSoundCache.set(soundName, audio);
   }
   return girlSoundCache.get(soundName);
@@ -238,7 +244,7 @@ function playGirlSound(soundName, voiceOn) {
   girlSoundTimer = window.setTimeout(() => {
     audio.currentTime = 0;
     audio.play().catch(() => {});
-  }, 120);
+  }, 230);
 }
 
 function showReaction(type) {

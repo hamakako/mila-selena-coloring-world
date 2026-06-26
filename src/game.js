@@ -1,5 +1,5 @@
-import { ColoringBoard } from "./coloring.js?v=20260626-girlvoice1";
-import { levels } from "./levels.js?v=20260626-girlvoice1";
+import { ColoringBoard } from "./coloring.js?v=20260626-namevoice1";
+import { levels } from "./levels.js?v=20260626-namevoice1";
 import {
   addGalleryItem,
   clearAllProgress,
@@ -9,7 +9,7 @@ import {
   saveState,
   setPlayer,
   setVoiceOn,
-} from "./storage.js?v=20260626-girlvoice1";
+} from "./storage.js?v=20260626-namevoice1";
 import {
   enableVoiceAfterStart,
   playReaction,
@@ -17,7 +17,7 @@ import {
   setSubtitleTarget,
   speak,
   stopVoice,
-} from "./voice.js?v=20260626-girlvoice1";
+} from "./voice.js?v=20260626-namevoice1";
 
 const players = {
   mila: {
@@ -128,6 +128,16 @@ export function createGame(root) {
   };
 
   const playerName = () => players[state.player]?.name || "artist";
+  const playerClipId = () => (state.player === "selena" ? "selena" : "mila");
+  const starGirlSound = (stars) => {
+    if (stars === 3) {
+      return `three_stars_${playerClipId()}`;
+    }
+    if (stars === 2) {
+      return `two_stars_${playerClipId()}`;
+    }
+    return `one_star_${playerClipId()}`;
+  };
 
   const appFrame = (content) => `
     <div class="background-dots" aria-hidden="true"></div>
@@ -173,7 +183,7 @@ export function createGame(root) {
       renderPlayerSelect();
       speak("Hi! Let us color together.", state.voiceOn, {
         reaction: "great",
-        girlSound: "lets_color",
+        girlSound: "welcome",
       });
     });
   };
@@ -204,7 +214,7 @@ export function createGame(root) {
         renderLevelMap();
         speak(`Hi, ${player.name}! Pick a picture.`, state.voiceOn, {
           reaction: "great",
-          girlSound: "pick_picture",
+          girlSound: player.id === "mila" ? "choose_mila" : "choose_selena",
         });
       });
     });
@@ -453,12 +463,12 @@ export function createGame(root) {
     if (speakAfterSave) {
       speak(`Saved! Good job, ${playerName()}.`, state.voiceOn, {
         reaction: "save",
-        girlSound: "saved",
+        girlSound: `saved_${playerClipId()}`,
       });
     } else {
       speak("Saved! Good job.", state.voiceOn, {
         reaction: "save",
-        girlSound: "saved",
+        girlSound: state.player ? `saved_${playerClipId()}` : "saved_artwork",
       });
     }
     return item;
@@ -512,7 +522,7 @@ export function createGame(root) {
     `);
     speak(voiceMessage, state.voiceOn, {
       reaction: score.stars === 3 ? "celebrate" : score.stars === 2 ? "great" : "gentle",
-      girlSound: score.stars === 3 ? "three_stars" : score.stars === 2 ? "two_stars" : "good_try",
+      girlSound: starGirlSound(score.stars),
     });
     root.querySelector("[data-next]")?.addEventListener("click", (event) => {
       renderColoring(Number(event.currentTarget.dataset.next));

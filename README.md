@@ -68,7 +68,7 @@ Look for the `speak(...)` captions in `src/game.js`. The audible reactions are i
 assets/sounds/girl/
 ```
 
-There is no browser Text-to-Speech. The girl clips are only quick reactions such as "Let's color", "Saved", "Good try", and "Yay, three stars", so the app avoids long robot talking. Sounds start only after the player taps Start.
+There is no browser Text-to-Speech. The girl clips are recorded app assets that call Mila and Selena by name during welcome, player choice, save, and star reactions. Sounds start only after the player taps Start.
 
 ## How to Deploy Online
 
@@ -126,5 +126,5 @@ Remember: publishing with the current `profile.jpg` files makes those photos pub
 - Gallery with open, download PNG, and delete
 - Level locking, completion stars, and progress
 - Sound On / Off button with subtitles
-- Kid-friendly musical reactions with short girl encouragement clips
+- Kid-friendly musical reactions with Mila/Selena name-specific encouragement clips
 - Mobile, tablet, and desktop responsive layout
